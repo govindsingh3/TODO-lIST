@@ -1,0 +1,15 @@
+# Java / Spring Boot
+target/
+*.class
+
+# Secrets
+application.properties
+application-*.properties
+
+# Node / React
+node_modules/
+.env
+
+# IDE
+.idea/
+.vscode/
